@@ -4,7 +4,7 @@ This is also just text.
 ## This is a header. 
 I forgot to add some text here. 
 
-### This is a ___smaller header. 
+### This is a ___smaller___ header. 
 
 This is just text. 
 
