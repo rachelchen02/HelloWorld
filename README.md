@@ -14,3 +14,8 @@ Also it would be nice to add a list. Here we go:
 3. Bananas
 
 😄
+
+| This | is | a | table | header |
+| ---- | --- | ---| --- | --- | 
+| this | is | the | table's | content |
+| More | content | is | shown | here |
