@@ -1,2 +1,7 @@
-# HelloWorld
-This is my first repository. 
+# Hello world
+
+## This is a header. 
+
+### This is a smaller header. 
+
+This is just text. 
